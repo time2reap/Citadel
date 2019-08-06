@@ -1,0 +1,11 @@
+Citadel/Intermediate/
+Citadel/Saved/
+*/Saved/
+*/Intermediate/
+Citadel/Config/DefaultEngine.ini
+Citadel/Intermediate/*
+Citadel/Saved/*
+Citadel/Build/
+Citadel/Build/*
+
+
